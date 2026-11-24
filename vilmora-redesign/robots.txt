@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taupe-lily-d131fc.netlify.app/sitemap.xml
